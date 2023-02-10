@@ -2,7 +2,7 @@
 
 This application is a web-based ads platform that utilizes the following technologies:
 - NGINX webserver
-- PHP 8.1 
+- PHP 8.0 
 - MariaDB (GPL MySQL fork)
 - PHPMyAdmin
 
