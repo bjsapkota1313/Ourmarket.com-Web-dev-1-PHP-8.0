@@ -1,0 +1,11 @@
+
+_php:S103'"KSplit this 128 characters long line (which is greater than 120 authorized).(¶íÆ
+ephp:S103‡"KSplit this 131 characters long line (which is greater than 120 authorized).(ƒçØ€üÿÿÿÿ
+z	php:S1808'"eEither split this list into multiple lines, aligned at column "20" or put all arguments on line "39".(¶íÆ
+H	php:S1808(".Move the closing parenthesis on the next line.(›ÌÅ‚ûÿÿÿÿ
+V	php:S1784¨"@Explicitly mention the visibility of this method "processImage".(ñ ÚÊ
+@	php:S2003"&Replace "require" with "require_once".(×¦èÿÿÿÿÿ
+Q	php:S1793t"<Replace this "else if" keyword sequence by "elseif" keyword.(Ø‘ É
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(×¦èÿÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(âßÀğ
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÎşÁ¥ùÿÿÿÿ

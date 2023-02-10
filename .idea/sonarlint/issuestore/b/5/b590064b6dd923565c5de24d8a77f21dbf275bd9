@@ -1,0 +1,12 @@
+
+HWeb:BoldAndItalicTagsCheck	"Replace this <i> tag by <em>.(‘Ş¹ƒøÿÿÿÿ
+CWeb:BoldAndItalicTagsCheck-"Replace this <i> tag by <em>.(²ıÉé
+HWeb:BoldAndItalicTagsCheckI"Replace this <i> tag by <em>.(æÃåüÿÿÿÿ
+dphp:S103	"KSplit this 156 characters long line (which is greater than 120 authorized).(‘Ş¹ƒøÿÿÿÿ
+dphp:S103"KSplit this 162 characters long line (which is greater than 120 authorized).(›½úúÿÿÿÿ
+dphp:S103"KSplit this 141 characters long line (which is greater than 120 authorized).(Ïïªıÿÿÿÿ
+_php:S103'"KSplit this 148 characters long line (which is greater than 120 authorized).(ÕÜ»ö
+_php:S103+"KSplit this 138 characters long line (which is greater than 120 authorized).(€ù…
+dphp:S103,"KSplit this 169 characters long line (which is greater than 120 authorized).(§§âšüÿÿÿÿ
+dphp:S103G"KSplit this 196 characters long line (which is greater than 120 authorized).(©ÏıÉüÿÿÿÿ
+dphp:S103I"KSplit this 204 characters long line (which is greater than 120 authorized).(æÃåüÿÿÿÿ
