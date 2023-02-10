@@ -1,0 +1,38 @@
+
+_php:S103"KSplit this 179 characters long line (which is greater than 120 authorized).(–ÑÅİ
+^php:S103$"KSplit this 149 characters long line (which is greater than 120 authorized).(Ó¾ÈA
+_php:S103%"KSplit this 121 characters long line (which is greater than 120 authorized).(°Ş… 
+dphp:S103/"KSplit this 149 characters long line (which is greater than 120 authorized).(ÿ§Ğÿÿÿÿÿ
+^php:S1035"KSplit this 149 characters long line (which is greater than 120 authorized).(Ó¾ÈA
+_php:S1036"KSplit this 121 characters long line (which is greater than 120 authorized).(°Ş… 
+_php:S103?"KSplit this 195 characters long line (which is greater than 120 authorized).(†Çº‘
+^php:S103M"KSplit this 149 characters long line (which is greater than 120 authorized).(Ó¾ÈA
+_php:S103N"KSplit this 121 characters long line (which is greater than 120 authorized).(°Ş… 
+_php:S103•"KSplit this 149 characters long line (which is greater than 120 authorized).(Ó¾ÈA
+`php:S103–"KSplit this 121 characters long line (which is greater than 120 authorized).(°Ş… 
+`php:S103Ÿ"KSplit this 179 characters long line (which is greater than 120 authorized).(œŸóÍ
+_php:S103¬"KSplit this 149 characters long line (which is greater than 120 authorized).(Ó¾ÈA
+`php:S103­"KSplit this 121 characters long line (which is greater than 120 authorized).(°Ş… 
+`php:S103Ñ"KSplit this 172 characters long line (which is greater than 120 authorized).(ÇÍÕš
+`php:S103ß"KSplit this 191 characters long line (which is greater than 120 authorized).(ˆ°««
+_php:S103á"KSplit this 149 characters long line (which is greater than 120 authorized).(Åõ'
+e	php:S1808û"JPut one space between the closing parenthesis and the opening curly brace.(¦ßŞ´øÿÿÿÿ
+M	php:S1808ü"2Remove any space before comma separated arguments.(í§ø‰ÿÿÿÿÿ
+_	php:S1808û"DPut one space between this "if" keyword and the opening parenthesis.(¦ßŞ´øÿÿÿÿ
+xphp:S117\"_Rename this local variable "$rows_updated" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÜÎÄ¾üÿÿÿÿ
+xphp:S117n"_Rename this local variable "$rows_updated" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÜÎÄ¾üÿÿÿÿ
+j	php:S1192%"UDefine a constant instead of duplicating this literal "/../Errors/error.log" 5 times.(°Ş… 
+…	php:S1192%"pDefine a constant instead of duplicating this literal "Something went wrong getting ads from database " 5 times.(°Ş… 
+Z	php:S11920"FDefine a constant instead of duplicating this literal ":adId" 4 times.(öÖÚ4
+[	php:S1192$"GDefine a constant instead of duplicating this literal " Line " 5 times.(Ó¾ÈA
+i	php:S1192z"TDefine a constant instead of duplicating this literal "An error occurred: " 5 times.(ÑÅ³º
+]	php:S1192"HDefine a constant instead of duplicating this literal ":status" 3 times.(ÍĞÓı
+f	php:S1192$"RDefine a constant instead of duplicating this literal "F j, Y, g:i a e O" 5 times.(Ó¾ÈA
+h	php:S1192 "MDefine a constant instead of duplicating this literal ":productName" 3 times.(çøìûûÿÿÿÿ
+7	php:S1116ı"Remove this empty statement.(ôŸìúÿÿÿÿ
+Lphp:S836É"2Review the data-flow - use of uninitialized value.(™­•Öşÿÿÿÿ
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ùé‚Úÿÿÿÿÿ
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ªöíòıÿÿÿÿ
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ÿ¬˜øÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ıï³ô
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ç’Ş

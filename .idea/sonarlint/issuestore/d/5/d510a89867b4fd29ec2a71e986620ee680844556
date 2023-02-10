@@ -1,0 +1,13 @@
+
+[	php:S1808"FMove this "else" to the same line as the previous closing curly brace.(á¢–¬
+d	php:S1808"JPut one space between the closing parenthesis and the opening curly brace.(«•—Šøÿÿÿÿ
+^	php:S1808"DPut one space between this "if" keyword and the opening parenthesis.(«•—Šøÿÿÿÿ
+[	php:S1808"FPut one space between this "else" keyword and the opening curly brace.(á¢–¬
+@	php:S2003"&Replace "require" with "require_once".(òß‰Ýÿÿÿÿÿ
+@	php:S2003"&Replace "require" with "require_once".(Ùƒššüÿÿÿÿ
+@	php:S2003"&Replace "require" with "require_once".(¿¸·§ÿÿÿÿÿ
+;	php:S2003"&Replace "require" with "require_once".(ì‡å”
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(òß‰Ýÿÿÿÿÿ
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(Ùƒššüÿÿÿÿ
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(¿¸·§ÿÿÿÿÿ
+a	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(ì‡å”

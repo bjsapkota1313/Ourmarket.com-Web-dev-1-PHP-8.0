@@ -128,7 +128,7 @@ class AdRepository extends Repository
         $ad = new Ad();
         $ad->setId($dBRow["id"]);
         $ad->setDescription($dBRow["description"]);
-        $ad->setPostedDate($dBRow["postedDate"]);
+        $ad->setPostedDate(new DateTime($dBRow["postedDate"]));
         $ad->setPrice($dBRow["price"]);
         $ad->setProductName($dBRow["productName"]);
         $ad->setImageUri($dBRow["imageURI"]);

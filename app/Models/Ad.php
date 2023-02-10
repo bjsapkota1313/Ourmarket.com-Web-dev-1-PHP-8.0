@@ -7,7 +7,7 @@ class Ad implements jsonSerializable
     private int $id;
     private string $productName;
     private string $description;
-    private string $postedDate;
+    private DateTime $postedDate;
     private float $price;
     private string $imageUri;
     private User $user;
@@ -119,13 +119,13 @@ class Ad implements jsonSerializable
      */
     public function getPostedDate(): string
     {
-        return $this->postedDate;
+        return $this->postedDate->format('Y-m-d');
     }
 
     /**
      * @param String $postedDate
      */
-    public function setPostedDate(string $postedDate): void
+    public function setPostedDate(DateTime $postedDate): void
     {
         $this->postedDate = $postedDate;
     }

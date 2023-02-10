@@ -35,16 +35,12 @@ class Status implements JsonSerializable
 
     public static function getLabel(self $value): string
     {
-        switch ($value->value) {
-            case self::Available:
-                return 'Available';
-            case self::Sold:
-                return 'Sold';
-            case self::Expired:
-                return 'Expired';
-            default:
-                throw new InvalidArgumentException("Invalid status value: $value");
-        }
+        return match ($value->value) {
+            self::Available => 'Available',
+            self::Sold => 'Sold',
+            self::Expired => 'Expired',
+            default => throw new InvalidArgumentException("Invalid status value: $value"),
+        };
     }
     public function equals(self $other): bool
     {
@@ -52,16 +48,12 @@ class Status implements JsonSerializable
     }
     public static function fromString(string $value): self
     {
-        switch ($value) {
-            case self::Available:
-                return self::Available();
-            case self::Sold:
-                return self::Sold();
-            case self::Expired:
-                return self::Expired();
-            default:
-                throw new InvalidArgumentException("Invalid status value: $value");
-        }
+        return match ($value) {
+            self::Available => self::Available(),
+            self::Sold => self::Sold(),
+            self::Expired => self::Expired(),
+            default => throw new InvalidArgumentException("Invalid status value: $value"),
+        };
     }
     public function jsonSerialize() :mixed
     {

@@ -1,0 +1,17 @@
+
+_php:S103#"KSplit this 122 characters long line (which is greater than 120 authorized).(½·Ù
+J	php:S1808?"0Remove all space before the closing parenthesis.(Ú¯á†ÿÿÿÿÿ
+E	php:S1481"+Remove this unused "$total" local variable.(êáÕÔşÿÿÿÿ
+;	php:S2003"&Replace "require" with "require_once".(É¿ˆ¸
+@	php:S2003"&Replace "require" with "require_once".(‹Ğùÿÿÿÿ
+@	php:S2003"&Replace "require" with "require_once".(Ùƒššüÿÿÿÿ
+;	php:S2003"&Replace "require" with "require_once".(˜àúÊ
+;	php:S2003"&Replace "require" with "require_once".(Şş”¾
+;	php:S2003!"&Replace "require" with "require_once".(ÏÌÛµ
+a	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(É¿ˆ¸
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(‹Ğùÿÿÿÿ
+f	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(Ùƒššüÿÿÿÿ
+a	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(˜àúÊ
+a	php:S4833"LReplace "require" with namespace import mechanism through the "use" keyword.(Şş”¾
+a	php:S4833!"LReplace "require" with namespace import mechanism through the "use" keyword.(ÏÌÛµ
+,	php:S2010"Replace "or" with "||".(Òµó“
